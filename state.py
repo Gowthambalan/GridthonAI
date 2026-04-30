@@ -63,7 +63,7 @@ def resolve_to_sections(tree, office_id):
 from pymongo import MongoClient
 import pandas as pd
 
-MONGO_URI = "mongodb://admin:Password123@192.95.51.52:27017/"
+MONGO_URI = ""
 
 
 def load_hierarchy():
