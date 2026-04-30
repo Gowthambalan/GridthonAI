@@ -39,7 +39,7 @@
 
 # MAX_DATE_RANGE = 90
 
-# MONGO_URI = "mongodb://admin:Password123@192.95.51.52:27017/"
+# MONGO_URI = ""
 # DB_NAME   = "iotdb"
 
 # # Pre-computed forecast cache collections (populate via precompute_forecasts.py)
@@ -1296,7 +1296,7 @@ from stats_helpers import fmt, make_stat, build_threshold, build_forecast_meta
 
 MAX_DATE_RANGE = 90
 
-MONGO_URI = "mongodb://admin:Password123@192.95.51.52:27017/"
+MONGO_URI = ""
 DB_NAME   = "iotdb"
 
 # Pre-computed forecast cache collections (populate via precompute_forecasts.py)
