@@ -33,7 +33,7 @@ import numpy as np
 from pymongo import MongoClient, UpdateOne
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-MONGO_URI   = "mongodb://admin:Password123@192.95.51.52:27017/"
+MONGO_URI   = ""
 DB_NAME     = "iotdb"
 MODEL_DIR   = "models"
 BATCH_WRITE = 2_000   # Mongo bulk write batch size
