@@ -3,7 +3,7 @@
 # ─────────────────────────────────────────────────────────────────────────────
 #
 # Response-2 stat-card shape:
-#   {
+#   { 
 #     "label": "Avg Power Factor",
 #     "value": "0.9317",
 #     "icon":  "ri-pulse-line",
